@@ -6,3 +6,4 @@ images
 # Targets Windows & Unix temporary files
 ~$*
 *~
+.ipynb_checkpoints
